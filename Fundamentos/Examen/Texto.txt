@@ -1,0 +1,15 @@
+ID	GALAXIAS                     	ESTRELLAS                          	PLANETAS                  	LUNAS                                  
+01	Via lactea                   	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+02	Galaxia Cometa               	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+03	Galaxia Circinus             	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+04	Galaxia Baby Boom            	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+05	Galaxias Antennae            	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+06	Enana de Carina              	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+07	Enana de Draco               	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+08	Dwingeloo 1                  	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+09	Andromeda I                  	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+10	Enana Irregular de Sagitario 	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+11	Enana de Fénix               	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+12	Enana de Draco               	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+13	Galaxia Circinus             	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
+14	Enana de Acuario             	Rigel, Vega, Alfa Centauri A,Arturo	Venus,Tierra,Marte,Jupiter	Aitne,Arche,Autonoe,Callirrhoe,Chaldene
